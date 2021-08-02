@@ -127,6 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/data1
 /data
 
